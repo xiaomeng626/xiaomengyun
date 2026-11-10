@@ -1,0 +1,1 @@
+{"download_url":"https://raw.githubusercontent.com/xiaomeng626/xiaomengyun/main/xiaomengyun-v1.0.8.zip","notes":"小梦云 v1.0.8 隧道诊断修读日志版：诊断读日志改共享方式（cloudflared 写日志时也能读到内容，不再报文件被占用），同时修了隧道地址读取（原来读不到日志，地址永远出不来）；新增 argotunnel 边缘节点连通测试。只修诊断读取、不改其他；装好后把隧道诊断结果发给小梦","version":"1.0.8"}
