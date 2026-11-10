@@ -1,0 +1,1 @@
+{"download_url":"https://raw.githubusercontent.com/xiaomeng626/xiaomengyun/main/xiaomengyun-v1.0.7.zip","notes":"小梦云 v1.0.7 隧道诊断版：BOSS 页加“隧道诊断”，显示 cloudflared.exe 是否存在、进程是否在跑、日志最后 20 行、连 Cloudflare 测试结果，只诊断不修；装好后把诊断结果发给小梦，再定怎么修隧道","version":"1.0.7"}
